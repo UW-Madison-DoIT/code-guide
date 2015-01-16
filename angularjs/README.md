@@ -27,7 +27,7 @@ Module  | Contacts | Notes
 [Pagination Directive](https://github.com/michaelbromley/angularUtils/tree/master/src/directives/pagination) | | Pagination directive
 
 ## Learning Resources
-Normally we might list a slew of links, but why maintain that ourselves? Refer instead to the
-[Ginormous and unstoppable list of useful Angular resources](http://www.planningforaliens.com/angular/ginormous-unstoppable-angular-resource-list/)
+Following resources are useful when learning AngularJS:
+- [Ginormous and unstoppable list of useful Angular resources](http://www.planningforaliens.com/angular/ginormous-unstoppable-angular-resource-list/)
 
 
