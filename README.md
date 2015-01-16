@@ -13,5 +13,7 @@ Please feel free to contribute or suggest ideas for improving. As much as possib
 
 The following guides are available:
 
-[AngularJS](angularjs/README.md)
+- [AngularJS](angularjs/README.md)
+
+- [Grails](grails/README.md)
 
